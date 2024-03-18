@@ -1,5 +1,5 @@
 ---
-title: "💼 Projects"
+title: "Projects"
 date: 2023-05-13
 lastmod: 2024-02-14
 cascade:

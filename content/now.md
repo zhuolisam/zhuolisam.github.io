@@ -23,6 +23,7 @@ showRelatedContent: false
 
 ## Reading
 
+- [*Designing Data-Intensive Applications*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [*Designing Machine Learning System*](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 
 ## Current Focus
