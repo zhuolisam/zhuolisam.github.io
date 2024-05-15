@@ -14,4 +14,4 @@ I'm lucky that I have a pretty good brain and I can memorize, reason, excels at 
 
 There're so many things that I have experiences, some natural instinct that I was born with, and the things that I have learnt during my uni years, but they're here and there and they never really get connected in my brain, nor how do I connect them with the coding skills I have. I want to really live out my life. I want to know where are my boundaries. I want to know how would I look like if I maxed out myself, in pursuing the things I'm curious. 
 
-Starting today, I want to connect thougths, ideas, interest in my brain, by realizing them through the medium I gained, which is engineering. I want to find the child in me, who's curious, creative, fearless, I want to be the person again. 
+Starting today, I want to connect thougths, ideas, interest in my brain, by realizing them through the medium I have. I loved music and arts so much, I enjoyed crafting concrete artworks, I was so curious about how the universe works, I was so hyped about sci-fi world. I want to find the child in me, who's curious, creative, fearless, I want to be the person again.  
