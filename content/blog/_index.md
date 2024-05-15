@@ -8,9 +8,9 @@ title: "Blog"
 #   invertPagination: true
 #   showViews: false
 #   showLikes: false
-#   showReadingTime: false
+  showReadingTime: false
 ---
 
-{{< alert cardColor="#7A889D" iconColor="#AAFFBF" textColor="#f1faee">}}
+<!-- {{< alert cardColor="#7A889D" iconColor="#AAFFBF" textColor="#f1faee">}}
 This page is a work in progress 🏗️
-{{< /alert >}}
+{{< /alert >}} -->
