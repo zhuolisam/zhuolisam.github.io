@@ -1,6 +1,7 @@
 ---
 title : 'A Checkpoint Reflection'
-date : 2024-05-16
+date : 2024-05-16T03:16:00+08:00
+publishDate: 2024-05-16T03:16:00+08:00 
 draft : false
 tags : ["life", "reflection"]
 

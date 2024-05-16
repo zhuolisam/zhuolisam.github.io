@@ -1,6 +1,7 @@
 ---
 title : 'What Drives Me in Life?'
-date : 2024-05-17
+date: 2024-05-17T03:16:00+08:00
+publishDate : 2024-05-17T03:16:00+08:00
 draft : false
 tags : ["life"]
 
@@ -16,7 +17,7 @@ A good question to ask to validate is:
 
    > If you have tons of money and were just told to enjoy the rest of your life, would you still gonna hustle and to achieve the career goal you set?
 
-Ngl. That hits me hard.
+Ngl. That hit me hard.
 
 I guess I wouldn't work that hard, but there's one thing for sure, I would still have the raw and pure curiosity, over all the things in the world that feels so magical to me. How tf did the rockets able to fly to the moon? How did the engineers design better aircrafts wings? How did we launched a satelite that is capable of taking a picture of the black hole? Humanity's technology is just so fascinating. I want to ***know***. Knowing how things works fixes my thirst.
 
