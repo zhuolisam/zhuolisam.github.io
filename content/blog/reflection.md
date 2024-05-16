@@ -2,7 +2,7 @@
 title : 'A Checkpoint Reflection'
 date : 2024-05-16
 draft : false
-tags : ["reflection"]
+tags : ["life", "reflection"]
 
 ---
 <!--more-->

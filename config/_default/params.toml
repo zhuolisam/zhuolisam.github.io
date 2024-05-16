@@ -56,12 +56,13 @@ showBreadcrumbs = false
 showSummary = false
 showViews = false
 showLikes = false
-showTableOfContents = true
+showTableOfContents = false
 showCards = false
 groupByYear = true
 cardView = false
 cardViewScreenWidth = false
 constrainItemsWidth = false
+showTaxonomies = false
 
 [article]
 showDate = true
