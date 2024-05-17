@@ -6,8 +6,6 @@ draft : false
 tags : ["life"]
 
 ---
-
-####
 <!--more-->
 My golden dream when I was in highschool, was to hustle hard, get a work in a leading tech/eng organization, like Boeing or Airbus, working on one-of-a-kind problem, designing new cutting-edge solutions that would change the world and push humanity's technology forward. 
 
