@@ -1,7 +1,7 @@
 ---
 title : 'What Drives Me in Life? Part 2'
-date: 2024-05-17T03:16:00+08:00
-publishDate : 2024-05-17T03:16:00+08:00
+date: 2024-05-24T03:16:00+08:00
+publishDate : 2024-05-24T03:16:00+08:00
 draft : false
 tags : ["life"]
 
