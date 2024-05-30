@@ -1,9 +1,9 @@
 ---
-title : 'Learning Hasn't Been The Same'
+title : "Learning Hasn't Been The Same"
 date: 2024-05-31T02:50:00+08:00
 publishDate : 2024-05-31T02:50:00+08:00
 draft : false
-tags : ["life", "learn"]
+tags : ["life", "learning"]
 
 ---
 
