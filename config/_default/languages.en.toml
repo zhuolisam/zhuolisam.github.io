@@ -14,7 +14,7 @@ dateFormat = "2006-01-02"
 description = "Sam Zhuo Li's digital garden"
 # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
 name = "Sam Zhuo Li"
 image = "img/author.jpg"
 # headline = "My intrusive thoughts."
