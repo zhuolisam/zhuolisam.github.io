@@ -17,17 +17,18 @@ showRelatedContent: false
 
 ## Doing
 
-- Rehabbing my lower back
-- Grinding Leetcode
-- Applying for jobs
+- Exploring new interests, figure out where do I want to go in life
+- Grinding Leetcode and basic system design
+- Applying for jobs again
 
 ## Reading
-
 - [*Designing Data-Intensive Applications*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-- [*Designing Machine Learning System*](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+- For more, visit my [goodreads](https://www.goodreads.com/user/show/183293481-sam-zhuo)!
 
 ## Current Focus
 
-- Physical and mental health
-- Master data structure and algorithms
-- Master networking and system design
+- Understand more about myself
+
+## Opportunities I would Explore
+- Better interaction with information and knowledge. (ARVR)
+
