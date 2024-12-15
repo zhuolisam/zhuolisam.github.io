@@ -16,7 +16,8 @@ description = "Sam Zhuo Li's digital garden"
 
 [params.author]
 name = "Sam Zhuo Li"
-image = "img/author.jpg"
+image = "author.jpg"
+imageQuality = 100
 # headline = "My intrusive thoughts."
 bio = "Inquisitive kid trying to learn."
 links = [
