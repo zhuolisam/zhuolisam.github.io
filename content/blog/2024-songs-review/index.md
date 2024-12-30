@@ -2,7 +2,7 @@
 title: Reviewing my 2024 through songs
 date: 2024-12-22T00:00:00+08:00
 publishDate: 2024-05-22T02:00:00+08:00
-draft: false
+draft: true
 tags:
   - music
   - yearly-review
@@ -21,7 +21,7 @@ Why am I writing this? While Spotify Wrapped provide a statistics summarising ou
 July was the month I had worked a month, for the first adult permanent job I had, after graduating college. For the first time in my life, I was supporting myself, truly living independently, and enjoying my free little life. Every weekend I would hike through hills, explore parks, and wander through art exhibitions, immersing myself in the vibrancy of nature, life, and art. I also got my first camera, and captured all those beauty of the places I discovered, preserving those moments of newfound freedom and joy.
 
 It's the same time I discovered [Bossa nova](https://en.wikipedia.org/wiki/Bossa_nova) . I wrote this after weeks listening to them:
-![[Pasted image 20241221160432.png]]
+![I like bossa nova so much](brazilian-bossa-nova.png "I like bossa nova so much")
 
 
 Bossa nova has a magical power, especially the Brazilian kind. To me, Brazilians are always portrayed as warm, friendly, and full of life. Their vibrant culture is deeply infused into their music. Brazilian bossa nova makes me feel alive—it’s impossible not to move and groove to its rhythms. Life feels ten times more enjoyable when you put on Brazilian songs. 
@@ -103,3 +103,4 @@ Knowing [Jingfei Chen](https://www.instagram.com/fayyyechen19/?hl=en) was one of
 I would introduce her as an music artist, a producer, but more importantly, a person who feels and a person who thinks.
 
 
+ 
