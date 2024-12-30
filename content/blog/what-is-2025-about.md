@@ -15,15 +15,17 @@ All the realization brings me clarity, and what I'll need next, is an initial mo
 Here are a few mindset shift for myself in 2025, to cover what I've lacked this year.
 
 1. Embrace imperfections
-	- The cost of failure is lower than what I think.
-	- I should fail more often. Even better, fail intentional. Fail at optimal rate.
-	- Failures are what make the journey fun. 
+	- The cost of failing is often lower than what I think.
+	- I should fail more often. Even better, fail intentional. [Fail at optimal rate](https://www.askell.blog/the-optimal-rate-of-failure/).
+	- Failures are what make the journey fun.
 	- With quantity comes quality.
 	- Questions, unknowns, challenges are opportunities. It signals a gap that I can fill.
 2. Be honest
 	- If it doesn't work, accept it, move on, iterate, make it better.
-	- Accept failures, because point 1.
-	- Do I really want it? Yes. Then go for it. Ask for it. Chase for it. To have courage is to realize I have only one life and I should make decision for myself. What am I pursuing if not after what makes me alive?
+	- Accept failures, because point 1. 
+	- Do I really want it? Yes. Then go for it. Ask for it. Chase for it. To [have courage](https://www.instagram.com/reel/C4IUK2dPFyJ/) is to realize I have only one life and I should make decision for myself. What am I pursuing if not after what makes me alive?
 	- Never be driven by external motivation. Always ask and listen to my heart and mind. Is this what I want? Does it makes me happy? Does it fuel me (带来能量), makes me happy or bring me peace? (I'm actually intrinsically driven and I'm pretty good at asking myself this)
 3. Actions precede motivations
 	- Keep the big picture in mind; keep the small efforts focused.
+	- While diversity is more beautiful than monotonic, [simple is better than complex](https://peps.python.org/pep-0020/).
+	- [Seize opportunity over excessive planning](https://pmarchive.com/guide_to_career_planning_part2.html).
