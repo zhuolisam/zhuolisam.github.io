@@ -1,7 +1,7 @@
 ---
 title: My Perspective on Life
-date: 2024-12-22T00:00:00+08:00
-publishDate: 2024-05-22T02:00:00+08:00
+date: 2024-12-31T00:00:00+08:00
+publishDate: 2024-12-31T00:00:00+08:00
 draft: false
 tags:
   - the-life-i-want
