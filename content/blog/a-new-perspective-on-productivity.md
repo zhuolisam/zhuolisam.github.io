@@ -1,7 +1,7 @@
 ---
-title: What No One Tells Me About Producitivity
+title: What No One Tells Me About Productivity
 date: 2024-12-31T10:43:00+08:00
-publishDate: 2024-12-31T18:30:00+08:00
+publishDate: 2024-12-31T23:14:00+08:00
 draft: false
 tags:
   - productivity
