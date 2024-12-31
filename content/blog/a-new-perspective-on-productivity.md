@@ -13,6 +13,7 @@ I was wrong.
 
 From the math perspective, the formula of productivity is simply result over time.
 
+{{< katex >}}
 $$
 Productivity = \frac{Result}{Time}
 $$
