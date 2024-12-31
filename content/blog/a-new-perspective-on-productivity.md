@@ -13,7 +13,9 @@ I was wrong.
 
 From the math perspective, the formula of productivity is simply result over time.
 
-$$Productivity = \frac{Result}{Time}$$
+$$
+Productivity = \frac{Result}{Time}
+$$
 
 To increase *Productivity* in the formula, we have to be able to measure by controlling the variables. The first step to measure *Productivity*, is to limit the time spent. At work, at tasks, at projects.
 
