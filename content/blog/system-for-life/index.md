@@ -1,5 +1,5 @@
 ---
-title: My Perspective on Life
+title: System for life
 date: 2024-12-31T00:00:00+08:00
 publishDate: 2024-12-31T23:25:00+08:00
 draft: false
