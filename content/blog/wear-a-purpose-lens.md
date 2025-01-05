@@ -1,7 +1,7 @@
 ---
 title: What Should I Study and Learn in Tech?
-date: 2024-01-05T21:31:00+08:00
-publishDate: 2024-01-05T21:31:00+08:00
+date: 2025-01-05T21:31:00+08:00
+publishDate: 2025-01-05T21:31:00+08:00
 draft: false
 tags:
   - learning
