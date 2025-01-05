@@ -17,7 +17,11 @@ TL;DR:
 3. Pick options and actions that maximize future options, opening more doors.
 
 
-While the heuristics are debatable and applicable to everyone, one thing that made me really resonated to Chip is how I agree with her opinions on *changing*.
+{{< tweet id=1367871165319049221 user=waitbutwhy >}}
+[Tim Urban on X: "We think a lot about those black lines, forgetting that it’s all still in our hands.](https://x.com/waitbutwhy/status/1367871165319049221)
+
+
+While the heuristics are debatable and applicable to everyone, one thing that made me really resonated with Chip is how I agree with her opinions on *changing*.
 
 > Maybe one day, I’ll get tired of exploration, and these heuristics will change. When that happens, that’ll be growth.
 
@@ -25,4 +29,3 @@ While the heuristics are debatable and applicable to everyone, one thing that ma
 I mentioned earlier in a post that the only constant in life is change, even ourselves, and my sole desire within this short life is to experience life as fully, richly, and abundantly as possible.
 
 I'd definitely like to know more people that I can resonate my dreams with. Chip is one of them.
-
