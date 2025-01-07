@@ -17,7 +17,7 @@ Here are a few mindset shift for myself in 2025, to cover what I've lacked this 
 1. Embrace imperfections
 	- The cost of failing is often lower than what I think.
 	- I should fail more often. Even better, fail intentional.  [Fail at optimal rate](https://www.askell.blog/the-optimal-rate-of-failure/). [Get comfortable with failing](https://www.linkedin.com/posts/chloe-shih_lessonslearned-lifelessons-personalgrowth-activity-7269474225579532288-nniw/).
-	- [Fail quick, get feedback quick, iterate quick](https://x.com/dontbesilent12/status/1857825315202187648/?s=12&rw_tt_thread=True).
+	- More often, failing means [getting feedback quick](https://x.com/dontbesilent12/status/1857825315202187648/?s=12&rw_tt_thread=True), iterate quick, and possibly, get better more quick.
 	- Failures are what make the journey enjoyable, and one of the source of opportunity I can learn.
 	- With quantity comes quality. [1](https://www.linkedin.com/posts/chloe-shih_lessonslearned-lifelessons-personalgrowth-activity-7269474225579532288-nniw/).[2](https://x.com/randfish/status/1376614750109450245?t=FGJk8kCt9pMIZTE3Skvhkw)
 	- Questions, unknowns, challenges are [opportunities](https://zhuolisam.github.io/blog/shape-of-unknowns/). It signals a gap that I can fill.
