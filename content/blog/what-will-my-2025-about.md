@@ -16,10 +16,10 @@ Here are a few mindset shift for myself in 2025, to cover what I've lacked this 
 
 1. Embrace imperfections
 	- The cost of failing is often lower than what I think.
-	- I should fail more often. Even better, fail intentional. [Fail at optimal rate](https://www.askell.blog/the-optimal-rate-of-failure/).
-	- Failures are what make the journey enjoyable.
-	- [With quantity comes quality](https://x.com/dontbesilent12/status/1857825315202187648/?s=12&rw_tt_thread=True).
-	- Questions, unknowns, challenges are opportunities. It signals a gap that I can fill.
+	- I should [fail more often](https://www.linkedin.com/posts/chloe-shih_lessonslearned-lifelessons-personalgrowth-activity-7269474225579532288-nniw/). Even better, fail intentional. [Fail at optimal rate](https://www.askell.blog/the-optimal-rate-of-failure/). [Get comfortable with failing](https://www.linkedin.com/posts/chloe-shih_lessonslearned-lifelessons-personalgrowth-activity-7269474225579532288-nniw/).
+	- Failures are what make the journey enjoyable, and one of the source of opportunity I can learn.
+	- With quantity comes quality. [1](https://www.linkedin.com/posts/chloe-shih_lessonslearned-lifelessons-personalgrowth-activity-7269474225579532288-nniw/).[2](https://x.com/randfish/status/1376614750109450245?t=FGJk8kCt9pMIZTE3Skvhkw)[3](https://x.com/dontbesilent12/status/1857825315202187648/?s=12&rw_tt_thread=True).
+	- Questions, unknowns, challenges are [opportunities](https://zhuolisam.github.io/blog/shape-of-unknowns/). It signals a gap that I can fill.
 	- The key to getting things done is [to limit time spent, or to keep the scope focused and small](https://zhuolisam.github.io/blog/a-new-perspective-on-productivity/).
 1. Be honest
 	- If it doesn't work, accept it, move on, iterate, make it better.

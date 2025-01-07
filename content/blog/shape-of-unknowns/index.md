@@ -15,4 +15,4 @@ Not long ago, I learned to reframe the unknown by giving it a *shape*, quite lit
 
 Recognizing and marking these gaps makes them feel less daunting, bringing clarity to my mind.
 
-![[unknown-as-gaps.png]]
+![unknown-as-gaps.png](unknown-as-gaps.png "unknowns as gaps")
