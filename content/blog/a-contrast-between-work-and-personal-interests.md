@@ -1,5 +1,5 @@
 ---
-title: The contrast between work project and personal project
+title: A contrast between work and personal interests
 date: 2025-01-13T16:00:00+08:00
 publishDate: 2024-01-13T16:00:00+08:00
 draft: false
