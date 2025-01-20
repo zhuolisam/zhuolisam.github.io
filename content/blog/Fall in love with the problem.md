@@ -9,7 +9,7 @@ tags:
   - pkm
 ---
 
-One thing I found out when I'm building my learning system and knowledge system is we simply don't start with defining our input sources, but rather, the problems and open gaps in reality we like to see it solved. I'm influenced by so many materials that share this idea: 1, 2, 3, 4
+One thing I found out when I'm building my learning system and knowledge system is we simply don't start with defining our input sources, but rather, the problems and open gaps in reality we like to see it solved. I'm influenced by so many materials that share this idea: [1](https://youtu.be/5kNCcpM61eo), [2](https://www.youtube.com/watch?v=r0nsW3nIFgk), [3](https://benchugg.com/writing/studying-useless-things/), [4](https://www.goodreads.com/book/show/61131333-fall-in-love-with-the-problem-not-the-solution)
 
 Then the question arise, how big the problem I should care about? I think they can varies.
 
