@@ -1,7 +1,7 @@
 ---
 title: "Now"
 date: 2023-05-13
-lastmod: 2024-02-14
+lastmod: 2025-01-20
 showDate: false
 showReadingTime: false
 showWordCount: false
