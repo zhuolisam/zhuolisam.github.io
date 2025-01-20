@@ -62,6 +62,11 @@ name = "Now"
 pageRef = "now"
 weight = 40
 
+[[main]]
+name = "About"
+pageRef = "about-me"
+weight = 50
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
