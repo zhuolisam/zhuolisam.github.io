@@ -24,3 +24,5 @@ I’m drawn by how fascinating the universe, living creatures, intelligence are.
 I love bossa nova jazz, I like indie pop, I love brit rock, I love country folk ballad. I like how k-pop idols dance, I like how skateboarders skate, I like how Olympic fencers fence, I like how rock climbers climb. I love going art exhibition indulging myself in the story, feeling the meaning behind the paintings. I love reading Haruki Murakami. I love taking pictures of stupid little greens when I hike. I love being in the mud and enjoy the mess. I love playing with water and feeling washed. I want to conquer Mount Everest one day and I want to learn paragliding to feel how birds feel.
 
 This is who I am.
+
+Do I like every part about me? Hell no. But I love most part of me. I like who I am, I like the way I feel, I like the way I do things, and I like the pace, with which I learn my mistakes. I don't want to be anybody else, but me.
