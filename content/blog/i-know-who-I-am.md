@@ -25,4 +25,4 @@ I love bossa nova jazz, I like indie pop, I love brit rock, I love country folk 
 
 This is who I am.
 
-Do I like every part about me? Hell no. But I love most part of me. I like who I am, I like the way I feel, I like the way I do things, and I like the pace, with which I learn my mistakes. I don't want to be anybody else, but me.
+Do I like every part about me? Hell no, I have a long way to go. But I love most part of me. I like who I am, I like the way I feel, I like the way I do things, and I like the pace, with which I learn my mistakes. I don't want to be anybody else, but me.
