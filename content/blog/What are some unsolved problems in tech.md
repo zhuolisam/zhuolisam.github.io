@@ -8,9 +8,9 @@ tags:
   - open-problem
 ---
 
-I have been a few time on job hunting, and to be honest, I still don't know what kind of role I'm looking for in tech, and which job offer to pick. 
+I have been a few time on job hunting, and to be honest, I still don't know what kind of role I'm looking for in tech, and which job offer to pick. I get asked this question by few people who try to help me: 'What kind of role are you interested atm?' Honestly, I don't have have a clear answer.
 
-Without concerning distracting yearnings like social and practical concerns, eg, 'which role is going to be in demand in future?', 'which industry is going to hot?'; As I question my personal yearnings, deeper and deeper, I found that I... don't like to settle in a specific, repetitive, focused, well-defined scope. I want to be at a role that requires flexibility, where there are open unsolved problems, and that allows exploration. Yes, I'm not looking for a specific role of a specific job scope, I'm interested in open problems where there's room for exploration, and be at a role that can answer them.
+To answer this, I disregarded distracting yearnings like social and practical concerns, eg, 'which role is going to be in demand in future?', 'which industry is going to hot?'. As I question my personal yearnings, deeper and deeper, I found that... I don't like to settle in a specific, repetitive, focused, well-defined scope. I want to be at a position that's flexible, where there are open unsolved problems, and that allows exploration. Yes, I'm not looking for a specific role of a specific job scope, I'm interested in open problems where there's room for exploration, and be at a position that can answer them.
 
 ChatGPT describe me as below and I found it accurate.
 > "It sounds like what you're really craving is a position that offers variety, intellectual challenge, and creativity. A role where you're solving problems that don't have a clear roadmap and where you're constantly learning new things."
@@ -50,4 +50,6 @@ Problems I personally have in mind:
 
 My pseudo mentor ChatGPT suggested me to reach out to more mentors/innovative teams, and I also should define a 'North-Star', a problem that I would want to solve over a decade.
 
-My plan now is to stay as a general SWE, solving small defined problems until I figured out what interest me. I have another voice in my head asking me to not waste time, just pick one and pursue it. I think I do need advices, especially from seniors who've been through the same . :\\
+My plan now is to stay as a general SWE, solving small defined problems until I figured out what one serious problem I want to tackle. At the same time I have another voice in my head saying life is too short to think, just pick one and pursue it. 
+
+I think I do need advices, especially from people who've been through similar situation. :\\
