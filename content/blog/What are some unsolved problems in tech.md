@@ -1,5 +1,5 @@
 ---
-title: Interesting Unsolved Problems in Tech?
+title: What are some Unsolved Problems in Tech?
 date: 2025-01-26T22:00:00+08:00
 publishDate: 2025-01-26T22:00:00+08:00
 draft: false
