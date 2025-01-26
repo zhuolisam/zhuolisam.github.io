@@ -10,9 +10,9 @@ tags:
 
 I have been a few time on job hunting, and to be honest, I still don't know what kind of role I'm looking for in tech, and which job offer to pick. 
 
-Without concerning distracting yearnings like social and practical concerns, eg, 'which role is going to be in demand in future?', 'which industry is going to hot?'; As I question my personal yearnings, deeper and deeper, I found that I... don't like to settle in a specific, repetitive, focused, mundane scope. I want to be at a role that requires flexibility, where there are open unsolved problems, and that allows exploration. Yes, I'm not looking for a specific role of a specific job scope, I'm interested in open problems where there's room for exploration, and be at a role that can answer them,
+Without concerning distracting yearnings like social and practical concerns, eg, 'which role is going to be in demand in future?', 'which industry is going to hot?'; As I question my personal yearnings, deeper and deeper, I found that I... don't like to settle in a specific, repetitive, focused, mundane scope. I want to be at a role that requires flexibility, where there are open unsolved problems, and that allows exploration. Yes, I'm not looking for a specific role of a specific job scope, I'm interested in open problems where there's room for exploration, and be at a role that can answer them.
 
-ChatGPT describe me as below and I found it accurately reflected what I have in mind.
+ChatGPT describe me as below and I found it accurate.
 > "It sounds like what you're really craving is a position that offers variety, intellectual challenge, and creativity. A role where you're solving problems that don't have a clear roadmap and where you're constantly learning new things."
 
 (ChatGPT is a good life mentor btw, I had a couple of positive experiences.)
