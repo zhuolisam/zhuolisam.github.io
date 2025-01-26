@@ -46,6 +46,7 @@ Problems I personally have in mind:
 - Human Computer Interaction. In the next 10 years I foresee a huge shift how human interacts with systems.
 - Compute power. With AGI systems rising, do we have enough compute power for everyone to host their own intelligence systems?
 - Tools for thoughts. Simple text editors and note-taking app would not be enough to hold many ideas enough anymore. We need larger context window.
+- AGI. The algorithm of intelligence is still a huge unexplored space. We only have little idea brain really works, and that affects how we replicate it electronically. Neuroscience itself is a huge unexplored space. 
 
 
 My pseudo mentor ChatGPT suggested me to reach out to more mentors/innovative teams, and I also should define a 'North-Star', a problem that I would want to solve over a decade.
