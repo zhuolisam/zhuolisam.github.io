@@ -8,7 +8,7 @@ tags:
   - open-problem
 ---
 
-I have been a few time on job hunting, and to be honest, I still don't know what kind of role I'm looking for in tech, and which job offer to pick. I get asked this question by few people who try to help me: 'What kind of role are you interested atm?' Honestly, I don't have have a clear answer.
+I have been on job hunting a few times, and to be honest, I still don't know what kind of role I'm looking for in tech, and which job offer to pick. I get asked this question by few people who try to help me: 'What kind of role are you interested atm?' Honestly, I don't have have a clear answer.
 
 To answer this, I disregarded distracting yearnings like social and practical concerns, eg, 'which role is going to be in demand in future?', 'which industry is going to hot?'. As I question my personal yearnings, deeper and deeper, I found that... I don't like to settle in a specific, repetitive, focused, well-defined scope. I want to be at a position that's flexible, where there are open unsolved problems, and that allows exploration. Yes, I'm not looking for a specific role of a specific job scope, I'm interested in open problems where there's room for exploration, and be at a position that can answer them.
 
