@@ -1,7 +1,7 @@
 ---
 title: Social Tentacles Hijacking Personal Tentacles
 date: 2025-01-26T14:00:00+08:00
-publishDate: 2024-01-26T14:00:00+08:00
+publishDate: 2025-01-26T14:00:00+08:00
 draft: false
 tags:
   - self-pursuit
