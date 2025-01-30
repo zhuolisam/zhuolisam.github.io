@@ -17,6 +17,8 @@ tags:
 6. Calisthenics
 7. Visit Mount Everest (Everest Base Camp) 
 8. Learn Brazilian Portuguese
+9. Dance
+10. Contribute to nature conservation work
 
 (PS. 4. is the whole purpose of my life, meanwhile it's just 1/100 in Chip's list, that [blew my mind](https://x.com/zhsaml/status/1880967251781906900)
 
