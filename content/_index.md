@@ -7,7 +7,7 @@ description: ""
 
 I'm Sam, this is my personal site!
 
-I enjoy software development, journalling, and thinking about life.
+I enjoy science & engineering, journalling, and thinking about life.
 
 See what am I doing [now]({{< ref "now" >}}).
 
