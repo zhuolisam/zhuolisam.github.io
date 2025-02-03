@@ -6,13 +6,14 @@ draft: false
 tags:
 ---
 
+> Grows over time
+
 People who shaped my values today
-- My childhood friend 陈翰林
 - [Andrej Karpathy](https://karpathy.ai/)
 
 
-People ignite the creativity in me
- - My childhood friend 陈翰林
+People who sparked the creativity in me
+ - My childhood friend, 翰霖
  - [Kat](https://x.com/poetengineer__)
 
 
