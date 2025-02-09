@@ -1,7 +1,7 @@
 ---
 title : 'City of Stars'
 date: 2024-05-25T01:41:00+08:00
-publishDate : 2024-05-25T01:41:00+08:00
+publishDate : 2025-02-10T00:41:00+08:00
 draft : false
 tags : ["life", "movies"]
 
@@ -33,11 +33,15 @@ Complete what you have to do, then you can spend time with what you _like to do_
 In the end it all boils down to life. <br>
 You'll have your way to experience your own life. <br>
 Learn to live a life. Learn to love life. Learn to _live life_. Then you're be fine :) <br>
-Other prospects are just bullshit. <br>
-
- <!-- > Here's to the ones who dream <br>
- > Foolish as they may seem <br>
- > Here's to the heart that ache <br>
- > Here's to the mess we make <br> -->
+Life problems would never be too big. <br>
 
 ![A doodle I drew after finishing the film](where-am-i-going.jpeg "A doodle I drew after finishing the film")
+
+
+> Here's to the ones who dream 
+> 
+ >Foolish as they may seem 
+ >
+ >Here's to the heart that ache
+ >
+ >Here's to the mess we make
