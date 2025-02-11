@@ -19,7 +19,9 @@ I sat on a bench. Looking at the greens, feeling the wind, the sunshine, and sen
 I feel wind breeze. 
 I hear birds chirp.
 
-I pulled out my journal and sketched. Then a kind man greeted me as he find me sketching, and that he was an artist too. He even pulled out his sketchbook and shared his sketches with me. I can tell how much he enjoy life from his eyes and the way he talks.
+I pulled out my journal and started to sketch. Then out of nowhere a man passing by stopped and walked up to me out. Turns out he's an artist, saw me sketching, decided to drop me a hi. He then pulled out his own sketchbook from backpack, put it in my hands, started flipping over pages of his sketches sharing them one by one. I can tell how much he enjoy life from his eyes and how he talks. 
+
+What are the odds? A random passerby, an artist, carrying his sketchbook, saw me sketching, dropped me a hi, we had a wonderful conversation. It just happened.
 
 I remember his words. 
 
@@ -27,7 +29,9 @@ I remember his words.
 
 I couldn't agree more. 
 
-Just when I were to leave the park I realize I have so much.
+\~~~
+
+I were to leave the park, then I realize I HAVE so much at present.
 
 How can I not appreciate the greens, the trees and grasses?</br>
 How can I not appreciate the sunshine?</br>
