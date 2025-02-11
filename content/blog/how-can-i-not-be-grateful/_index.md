@@ -1,12 +1,11 @@
 ---
-title: "How Can I Not Appreciate?</br>"
+title: "How Can I Not Appreciate?"
 date: 2025-02-11T14:00:00+08:00
 publishDate: 2025-02-11T14:00:00+08:00
 draft: false
 tags:
   - journal
 ---
-
 
 Life has been rough on me the past year. My health, my fitness, my sleep, my living environment, my appetite, my career progress, my expectation for work, my expectation for myself in career, my competency, my skills, my interest, my personal fulfilment, my dreams. None of them look like what I imagined it to be 5 years ago. And because of my health and my sleep, my emotional state, my spiritual wellbeing, my motivation, my drive, they all fluctuate. 
 
