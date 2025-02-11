@@ -21,7 +21,7 @@ I hear birds chirp.
 
 I pulled out my journal and started to sketch. Then out of nowhere a man passing by stopped and walked up to me out. Turns out he's an artist, saw me sketching, decided to drop me a hi. He then pulled out his own sketchbook from backpack, put it in my hands, started flipping over pages of his sketches sharing them one by one. I can tell how much he enjoy life from his eyes and how he talks. 
 
-What are the odds? A random passerby, an artist, carrying his sketchbook, saw me sketching, dropped me a hi, we had a wonderful conversation. It just happened.
+What are the odds? Me pulled out my journal, not earlier nor sooner, a random passerby, an artist, carrying his sketchbook, saw me sketching, dropped me a hi, we had a wonderful conversation. It just happened.
 
 I remember his words. 
 
