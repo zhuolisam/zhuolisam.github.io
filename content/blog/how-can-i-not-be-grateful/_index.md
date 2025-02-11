@@ -31,7 +31,7 @@ I couldn't agree more.
 
 \~~~
 
-I were to leave the park, then I realize I HAVE so much at present.
+I realize I have so much at present.
 
 How can I not appreciate the greens, the trees and grasses?</br>
 How can I not appreciate the sunshine?</br>
