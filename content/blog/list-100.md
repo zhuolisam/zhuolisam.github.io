@@ -7,7 +7,7 @@ tags:
   - life
 ---
 
-> Before 2025, I only keep a bucket list of like... 10 items. One day I read [Chip's bucket list](https://huyenchip.com/list-100/), it led me to question if I'm asking too little in life, and if I can ask for more.
+> Before 2025, I only keep a bucket list of like... 5 items. One day I read [Chip's bucket list](https://huyenchip.com/list-100/), it led me to question if I'm asking too little in life, and if I can ask for more.
 
 1. Astrophotography
 2. Skateboarding

@@ -1,7 +1,7 @@
 ---
 title: "Now"
 date: 2023-05-13
-lastmod: 2025-01-20
+lastmod: 2025-08-08
 showDate: false
 showReadingTime: false
 showWordCount: false
@@ -16,10 +16,9 @@ showRelatedContent: false
 {{< /alert >}}
 
 ## Doing
-
-- Exploring new interests, figure out where do I want to go in life
-- Grinding Leetcode and basic system design
-- Applying for jobs again
+- On mental health break
+- Designing my life
+- Occasionally Leetcode and studying distributed system
 
 ## Reading
 - [*Designing Data-Intensive Applications*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
@@ -27,8 +26,8 @@ showRelatedContent: false
 
 ## Current Focus
 
-- Understand more about myself
+- Take care of myself
 
 ## Opportunities I would Explore
-- Better interaction with information and knowledge. (ARVR)
-
+- Augmenting human-information interaction. (ARVR)
+- Augmenting human-machine collaboration.
