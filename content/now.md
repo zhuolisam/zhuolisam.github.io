@@ -17,7 +17,7 @@ showRelatedContent: false
 
 ## Doing
 - On mental health break
-- Designing my life
+- Designing the next steps of my life
 - Occasionally Leetcode and studying distributed system
 
 ## Reading
@@ -27,6 +27,7 @@ showRelatedContent: false
 ## Current Focus
 
 - Take care of myself
+- Understand more about myself
 
 ## Opportunities I would Explore
 - Augmenting human-information interaction. (ARVR)

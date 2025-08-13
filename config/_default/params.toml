@@ -38,7 +38,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "profile" # valid options: page, profile, hero, card, background, custom
-homepageImage = "avatar.jpg" # used in: hero, and card
+homepageImage = "author.jpg" # used in: hero, and card
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
